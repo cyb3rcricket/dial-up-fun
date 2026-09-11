@@ -2,7 +2,7 @@
 
 A lil retro **AOL / Windows 95–style dial-up sign-on screen** you can run right in the browser. Click **Connect** to play a timed “dial → DTMF tones → ringback → handshake/static → connected” sequence, then it reveals an AOL-inspired “workspace” UI.
 
-Live site: https://madebytommi.github.io/dial-up-fun/
+Live site: https://cyb3rcricket.github.io/dial-up-fun/
 
 ---
 
@@ -19,7 +19,7 @@ Live site: https://madebytommi.github.io/dial-up-fun/
   - Ringback (440 Hz + 480 Hz)
   - “Answer” tone + phasing
   - Filtered noise + random oscillators to mimic handshake/static
-- After the sequence completes, it reveals an **AOL workspace mock** (toolbar, channel list, content feed, buddy list window).
+- After the sequence completes, it reveals an AOL workspace mock (toolbar, channel list, content feed, buddy list window).
 
 ---
 
@@ -41,7 +41,7 @@ No build step, no frameworks—just static files that work great with GitHub Pag
 ## Open it on GitHub Pages
 
 ### Option A: Use the hosted link (recommended)
-Open: https://madebytommi.github.io/dial-up-fun/
+Open: https://cyb3rcricket.github.io/dial-up-fun/
 
 ### Option B: Run locally
 1. Clone the repo:
