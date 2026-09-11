@@ -46,7 +46,7 @@ Open: https://cyb3rcricket.github.io/dial-up-fun/
 ### Option B: Run locally
 1. Clone the repo:
    ```bash
-   git clone https://github.com/madebytommi/dial-up-fun.git
+   git clone https://github.com/cyb3rcricket/dial-up-fun.git
    cd dial-up-fun
    ```
 2. Open `index.html` in your browser **or** run a quick local server (best for consistency):
